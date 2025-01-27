@@ -35,15 +35,4 @@ A fully responsive **E-Commerce Website** built using **HTML**, **CSS**, and **B
 
 ---
 
-## Live Demo 🌐  
-You can view the live version of the project [here](https://your-live-demo-link.com).  
-*(Replace with your actual live demo link if deployed)*  
-
----
-
-## Setup Instructions 🧑‍💻  
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-username/e-commerce-website.git
 
